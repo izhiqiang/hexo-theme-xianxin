@@ -1,10 +1,9 @@
 # 菜单
 menu:
   Home: /
-  About: /about
   Archives: /archives
   Tags: /tags
-#  Categories: /categories
+  About: /about
   RSS: /sitemap.xml
 
 
